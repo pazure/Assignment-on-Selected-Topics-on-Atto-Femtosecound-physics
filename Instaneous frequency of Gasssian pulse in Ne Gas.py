@@ -84,12 +84,6 @@ plt.show()
 #%%
 
 
-
-
-
-
-
-
 # Phase Modulation as a function of time
 phi_t = w_0*t -(I_t*n*Lenght_Ne)/wavelength
 # Slope phase modulation (Instantaneous frequency)
@@ -113,18 +107,6 @@ plt.xlabel('Time(s)',fontsize = 'large')
 plt.ylabel('Amplitude', fontsize = 'large')
 plt.legend(loc = 'upper right',fontsize = 'large')
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
 
 #%%
 
